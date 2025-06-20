@@ -9,7 +9,12 @@
 
         "turbo-garden_sd": [
         "turbo-garden_sd/turbo_sd01.wav", "turbo-garden_sd/turbo_sd02.wav", "turbo-garden_sd/turbo_sd03.wav",
-        "turbo-garden_sd/turbo_sd04.wav","turbo-garden_sd/turbo_sd05.wav"]
+        "turbo-garden_sd/turbo_sd04.wav","turbo-garden_sd/turbo_sd05.wav"],
+
+        "turbo-garden_cl": [
+        "turbo-garden_cl/turbo_clap01.wav", "turbo-garden_cl/turbo_clap02.wav", "turbo-garden_cl/turbo_clap03.wav",
+        "turbo-garden_cl/turbo_clap04.wav","turbo-garden_cl/turbo_clap05.wav"]
+
 
 
 
