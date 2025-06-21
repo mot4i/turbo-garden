@@ -4,25 +4,24 @@
 
         "turbo-garden_bd": [
         "turbo-garden_bd/turbo_kick01.wav", "turbo-garden_bd/turbo_kick02.wav", "turbo-garden_bd/turbo_kick03.wav",
-        "turbo-garden_bd/turbo_kick04.wav","turbo-garden_bd/turbo_kick05.wav","turbo-garden_bd/turbo_kick06.wav",
-        "turbo-garden_bd/turbo_kick07.wav","turbo-garden_bd/turbo_kick08.wav","turbo-garden_bd/turbo_kick09.wav",
+        "turbo-garden_bd/turbo_kick04.wav", "turbo-garden_bd/turbo_kick05.wav", "turbo-garden_bd/turbo_kick06.wav",
+        "turbo-garden_bd/turbo_kick07.wav", "turbo-garden_bd/turbo_kick08.wav", "turbo-garden_bd/turbo_kick09.wav",
         "turbo-garden_bd/turbo_kick10.wav"],
 
         "turbo-garden_sd": [
         "turbo-garden_sd/turbo_sd01.wav", "turbo-garden_sd/turbo_sd02.wav", "turbo-garden_sd/turbo_sd03.wav",
-        "turbo-garden_sd/turbo_sd04.wav","turbo-garden_sd/turbo_sd05.wav"],
+        "turbo-garden_sd/turbo_sd04.wav", "turbo-garden_sd/turbo_sd05.wav"],
 
         "turbo-garden_cp": [
         "turbo-garden_cp/turbo_clap01.wav", "turbo-garden_cp/turbo_clap02.wav", "turbo-garden_cp/turbo_clap03.wav",
-        "turbo-garden_cp/turbo_clap04.wav","turbo-garden_cp/turbo_clap05.wav"],
+        "turbo-garden_cp/turbo_clap04.wav", "turbo-garden_cp/turbo_clap05.wav"],
 
         "turbo-garden_lt": [
         "turbo-garden_lt/turbo_lt01.wav", "turbo-garden_lt/turbo_lt02.wav", "turbo-garden_lt/turbo_lt03.wav",
-        "turbo-garden_lt/turbo_lt04.wav","turbo-garden_lt/turbo_lt05.wav"],
+        "turbo-garden_lt/turbo_lt04.wav", "turbo-garden_lt/turbo_lt05.wav"],
 
         "turbo-garden_hh": [
         "turbo-garden_hh/turbo_hh01.wav", "turbo-garden_hh/turbo_hh02.wav", "turbo-garden_hh/turbo_hh03.wav",
-        "turbo-garden_hh/turbo_hh04.wav","turbo-garden_hh/turbo_hh05.wav"]
-
+        "turbo-garden_hh/turbo_hh04.wav", "turbo-garden_hh/turbo_hh05.wav"]
 
 }
